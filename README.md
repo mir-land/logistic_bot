@@ -1,3 +1,21 @@
 # logistic_bot
 
-This repository hosts binary releases for the logistic_bot application.
+Данный бот разработан для удобства логистов
+
+выполняет функцию рассылки по группам
+так же возможна - отложенной рассылки по таймеру
+очистка истории списка групп - разово или по графику
+
+
+<img width="1270" height="978" alt="image" src="https://github.com/user-attachments/assets/b7e3230b-3a58-4385-9ac6-34e556cbf80b" />
+
+
+
+
+для работы приложения необходимо установить две среды разработки до запуска
+
+1 - для поддержки C# - запустите из архива установщик - windowsdesktop-runtime-6.0.36-win-x64.exe
+или установите от сюда - https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
+2 - для поддержки Node.js - запустите из архива установщик - node-v24.12.0-x64.msi
+или установите с сайта подходящую версию - https://nodejs.org/en/blog/release/v24.12.0
