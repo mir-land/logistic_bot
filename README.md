@@ -15,7 +15,8 @@
 откроется быстрое меню
 так же есть полное меню /menu
 
-<img width="1270" height="978" alt="image" src="https://github.com/user-attachments/assets/b7e3230b-3a58-4385-9ac6-34e556cbf80b" />
+<img width="927" height="917" alt="Безымянный" src="https://github.com/user-attachments/assets/fbeae27d-3368-4e7a-a2fd-dfda12931d1f" />
+
 
 для работы приложения необходимо установить две среды разработки до запуска и перезапустить PC
 если при запуске программа просит что то установить - то установите из архива - стабильные верси
