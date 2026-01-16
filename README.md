@@ -1,4 +1,4 @@
-# logistic_bot
+# logistic_bot = Fenix_bot
 
 Данный бот разработан для удобства логистов
 
